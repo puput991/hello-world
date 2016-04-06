@@ -1,2 +1,2 @@
 # hello-world
-Test
+Halo semua, saya baru belajar tentang Github. Mohon kerjasamanya. Terima kasih
